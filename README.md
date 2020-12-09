@@ -28,6 +28,7 @@ SET UP:
 EXAMPLES OF USAGE:
 
 // create contact with id 1
+
 curl -X POST -H "Content-Type:application/json" -d '{"firstName": "John", "lastName": "Smith", "email":"jsmith@gmail.com"}' http://localhost:8080/contacts
 
 curl -X PUT -H "Content-Type:application/json" -d '{"firstName": "John1", "lastName": "Smith", "email":"jsmith@gmail.com"}' http://localhost:8080/contacts/1
