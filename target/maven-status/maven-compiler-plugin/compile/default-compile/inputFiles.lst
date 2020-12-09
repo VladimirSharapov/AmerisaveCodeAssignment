@@ -1,0 +1,11 @@
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/exception/ExceptionHandlerAdvice.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/app/api/IContactAppService.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/domain/api/IContactApi.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/domain/impl/ContactApi.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/exception/ContactNotFoundException.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/app/impl/ContactAppService.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/domain/api/Contact.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/server/ContactRestServer.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/ContactappApplication.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/app/api/ContactView.java
+/Users/sharapov/Study/Amerisave/AmerisaveCodeAssignment/src/main/java/org/shv/contactapp/repository/IContactRepository.java

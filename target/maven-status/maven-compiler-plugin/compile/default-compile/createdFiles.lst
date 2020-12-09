@@ -1,0 +1,11 @@
+org/shv/contactapp/repository/IContactRepository.class
+org/shv/contactapp/app/api/ContactView.class
+org/shv/contactapp/app/api/IContactAppService.class
+org/shv/contactapp/domain/impl/ContactApi.class
+org/shv/contactapp/ContactappApplication.class
+org/shv/contactapp/domain/api/Contact.class
+org/shv/contactapp/exception/ExceptionHandlerAdvice.class
+org/shv/contactapp/app/impl/ContactAppService.class
+org/shv/contactapp/exception/ContactNotFoundException.class
+org/shv/contactapp/server/ContactRestServer.class
+org/shv/contactapp/domain/api/IContactApi.class
